@@ -1,1 +1,1 @@
-# django-work
+# fastapi-work
